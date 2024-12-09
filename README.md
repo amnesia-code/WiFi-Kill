@@ -8,3 +8,10 @@ A graphical tool to audit wireless networks
 And you need the tkinter python library :
 
 **sudo apt-get install python3-tk**
+
+# Features :
+### Deauth
+### Sniffing
+### Evil Twin Menu
+### Scan 
+### A cool graphical interface
