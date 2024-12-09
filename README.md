@@ -1,7 +1,7 @@
 # WiFi-Kill
 A graphical tool to audit wireless networks
 
-## Installation :
+# Installation :
 
 **git clone https://github.com/amnesia-code/WiFi-Kill.git**
 
